@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...-->
 ### ✨ Who am I?
-My name is Imal Kesara from SriLanka.🌱 I’m currently doing the Odin Project,icodeThis, Frontend-Mentor, and learning Web development. My Passion For Software Engineering
+👋 Hi, I’m ImalKesara from SriLanka.🌱 I’m currently doing the Odin Project,icodeThis, Frontend-Mentor, and learning Web development. My Passion For Software Engineering
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imalKesara & color=blueviolet" alt="100rabhcsmc" /> </p>
 
