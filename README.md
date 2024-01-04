@@ -6,8 +6,6 @@
 ### ✨ Who am I?
 Hi, I’m ImalKesara from SriLanka.🌱 I’m currently doing the Odin Project,icodeThis, Frontend-Mentor, and learning Web development.  Passion For Software Engineering
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imalKesara & color=blueviolet" alt="100rabhcsmc" /> </p>
-
 #### 💻 Technologies that I use
 ![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![Bootstrap](./assets/bootstrap.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
 
