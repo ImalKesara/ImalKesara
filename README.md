@@ -1,11 +1,5 @@
-<!--- 👋 Hi, I’m ImalKesara
-- 👀 I’m interested in Coding...
-- 🌱 I’m currently doing the Odin Project, learning Web development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...-->
-### ✨ Who am I?
-Hi, I’m ImalKesara from SriLanka.🌱 I’m currently doing the Odin Project,icodeThis, Frontend-Mentor, and learning Web development.  Passion For Software Engineering
 
+I’m ImalKesara.
 #### 💻 Technologies that I use
 ![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![Bootstrap](./assets/bootstrap.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
 
