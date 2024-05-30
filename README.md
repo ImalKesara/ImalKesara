@@ -1,7 +1,7 @@
 
 I’m ImalKesara.
 #### 💻 Technologies that I use
-![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg)
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![JavaScript](./assets/javascript.svg) ![TailwindCSS](./assets/tailwind.svg) 
 
 <!---
 ImalKesara/ImalKesara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
