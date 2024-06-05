@@ -1,4 +1,4 @@
-<p align="right">
+<p align="center">
       I’m Imal Kesara. <br />
      💻 Technologies that I use <br /><br /> 
   
