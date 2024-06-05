@@ -1,6 +1,7 @@
 <p align="center">
-  I’m Imal Kesara. <br /><br />
-#### 💻 Technologies that I use <br /><br />
+      I’m Imal Kesara. <br />
+     💻 Technologies that I use <br /><br /> 
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,azure,devto,mysql,postgres,replit,vscode,idea,postman&theme=light"/> <br />
     <img src="https://skillicons.dev/icons?i=svelte,solidjs,astro,tailwind,supabase,vercel,vite,prisma&theme=light"/> <br />
