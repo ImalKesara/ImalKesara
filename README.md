@@ -5,7 +5,7 @@ Technologies that I use <br /><br />
   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,java,kotlin,mysql,postgres,mongodb,azure&theme=light"/> <br />
-    <img src="https://skillicons.dev/icons?i=svelte,nodejs,threejs,tailwind,supabase,vercel,prisma&theme=light"/> <br />
+    <img src="https://skillicons.dev/icons?i=svelte,nodejs,express,threejs,tailwind,supabase,vercel,prisma&theme=light"/> <br />
   </a>
 </p>
 <!---
