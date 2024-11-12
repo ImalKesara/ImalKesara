@@ -4,7 +4,7 @@
 Technologies that I ❤️ <br /><br /> 
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cs,java,mysql,sqlite,postgres&theme=light"/> <br />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cs,java,mysql,postgres&theme=light"/> <br />
     <img src="https://skillicons.dev/icons?i=svelte,dotnet,nodejs,threejs,tailwind,supabase,prisma,vercel,docker,azure&theme=dark"/> <br />
   </a>
 </p>
