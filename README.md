@@ -1,6 +1,6 @@
 <p align="center">
  <b>I’m Imal Kesara.</b> 
-<br/>Self-taught Fullstack Developer <br />
+<br/>Self-taught Fullstack Developer / 3D Designer <br />
 
 [![An image of @imalkesara's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imalkesara)](https://holopin.io/@imalkesara)
 
